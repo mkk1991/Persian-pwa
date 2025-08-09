@@ -1,0 +1,2 @@
+self.addEventListener('install', (e)=>{e.waitUntil(caches.open('persian-pwa-v1').then(c=>c.addAll(['./','./index.html','./style.css','./app.js','./manifest.json','./lessons.json'])))});
+self.addEventListener('fetch', (e)=>{e.respondWith(caches.match(e.request).then(resp=>resp||fetch(e.request)))})

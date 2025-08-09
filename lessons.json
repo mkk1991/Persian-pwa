@@ -1,0 +1,140 @@
+[
+  {
+    "id": "day1",
+    "title": "Powitania i „proszę”",
+    "items": [
+      {
+        "fa": "سلام",
+        "tr": "Salam",
+        "pl": "Cześć / Dzień dobry",
+        "audio": "day1_1_salam.mp3"
+      },
+      {
+        "fa": "سلام، خوبی؟",
+        "tr": "Salam, khubi?",
+        "pl": "Cześć, jak się masz? (nieform.)",
+        "audio": "day1_2_khubi.mp3"
+      },
+      {
+        "fa": "خوش آمدید",
+        "tr": "Khosh amadid",
+        "pl": "Witamy (oficjalnie)",
+        "audio": "day1_3_khosh_amadid.mp3"
+      },
+      {
+        "fa": "بفرمایید",
+        "tr": "Befarmaid",
+        "pl": "Proszę (np. proszę do stołu)",
+        "audio": "day1_4_befarmaid.mp3"
+      },
+      {
+        "fa": "دمت گرم",
+        "tr": "Damet garm",
+        "pl": "Dzięki! (potocznie)",
+        "audio": "day1_5_damet_garm.mp3"
+      }
+    ]
+  },
+  {
+    "id": "day2",
+    "title": "Małe rozmówki i grzeczności",
+    "items": [
+      {
+        "fa": "مرسی",
+        "tr": "Merci",
+        "pl": "Dzięki",
+        "audio": "day2_1_merci.mp3"
+      },
+      {
+        "fa": "حالتون چطوره؟",
+        "tr": "Haletun chetore?",
+        "pl": "Jak się macie? (uprzejmie)",
+        "audio": "day2_2_haletun.mp3"
+      },
+      {
+        "fa": "خوبم، مرسی",
+        "tr": "Khubam, merci",
+        "pl": "Dobrze, dzięki",
+        "audio": "day2_3_khubam.mp3"
+      },
+      {
+        "fa": "خوشحالم که اینجایید",
+        "tr": "Khoshālam ke injā-id",
+        "pl": "Cieszę się, że tu jesteście",
+        "audio": "day2_4_khoshalam.mp3"
+      }
+    ]
+  },
+  {
+    "id": "day3",
+    "title": "Na parkiecie",
+    "items": [
+      {
+        "fa": "بیاین برقصیم!",
+        "tr": "Biāyin beraghsim!",
+        "pl": "Chodźmy tańczyć!",
+        "audio": "day3_1_beraghsim.mp3"
+      },
+      {
+        "fa": "عالیه!",
+        "tr": "Āliye!",
+        "pl": "Super!",
+        "audio": "day3_2_aliye.mp3"
+      },
+      {
+        "fa": "بزن بریم!",
+        "tr": "Bezan berim!",
+        "pl": "Jedziemy!/No to lecimy!",
+        "audio": "day3_3_bezan_berim.mp3"
+      }
+    ]
+  },
+  {
+    "id": "day4",
+    "title": "Przy stole",
+    "items": [
+      {
+        "fa": "غذا خیلی خوشمزه‌ست!",
+        "tr": "Ghazā kheili khoshmaze-st!",
+        "pl": "Jedzenie jest pyszne!",
+        "audio": "day4_1_ghaza.mp3"
+      },
+      {
+        "fa": "موسیقی خیلی خوبه",
+        "tr": "Musiqi kheili khube",
+        "pl": "Muzyka jest świetna",
+        "audio": "day4_2_musiqi.mp3"
+      },
+      {
+        "fa": "مرسی از حضورتون",
+        "tr": "Merci az hozūretun",
+        "pl": "Dzięki, że jesteście!",
+        "audio": "day4_3_hozuretun.mp3"
+      }
+    ]
+  },
+  {
+    "id": "day5",
+    "title": "Toast i small talk",
+    "items": [
+      {
+        "fa": "به سلامتی!",
+        "tr": "Be salāmati!",
+        "pl": "Na zdrowie! (toast)",
+        "audio": "day5_1_be_salamati.mp3"
+      },
+      {
+        "fa": "از کجا اومدی؟",
+        "tr": "Az kojā umadi?",
+        "pl": "Skąd przyjechałeś? (nieform.)",
+        "audio": "day5_2_az_koja.mp3"
+      },
+      {
+        "fa": "تهران",
+        "tr": "Tehrān",
+        "pl": "Teheran (przykładowa odpowiedź)",
+        "audio": "day5_3_tehran.mp3"
+      }
+    ]
+  }
+]

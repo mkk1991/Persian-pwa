@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title>Nauka perskiego – do wesela</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="style.css">
+  <meta name="theme-color" content="#ffffff">
+</head>
+<body>
+  <header>
+    <h1>Perski – 5–10 min dziennie</h1>
+    <button id="installBtn" hidden>Zainstaluj aplikację</button>
+  </header>
+
+  <main>
+    <section id="today">
+      <h2>Dzisiejsza lekcja</h2>
+      <div id="lessonContainer"></div>
+    </section>
+
+    <section id="review">
+      <h2>Powtórka dnia</h2>
+      <div id="reviewContainer"></div>
+    </section>
+
+    <section id="all">
+      <h2>Wszystkie lekcje</h2>
+      <div id="allLessons"></div>
+    </section>
+  </main>
+
+  <footer>
+    <button id="resetBtn" class="danger">Resetuj postęp</button>
+    <p>Tip: aby działało offline, dodaj do ekranu głównego (PWA). Audio: wgraj własne MP3 do folderu <code>assets/</code> zgodnie z nazwami w lekcjach.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
